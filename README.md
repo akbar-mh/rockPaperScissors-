@@ -1,3 +1,3 @@
 # rockPaperScissors-
 
-[demo] https://akbarmkalani.github.io/rockPaperScissors-/
+[demo] https://akbar-mh.github.io/rockPaperScissors-/
